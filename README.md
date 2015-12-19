@@ -1,4 +1,4 @@
-# Standard unix cat implemented in Rust
+# Standard Unix cat implemented in Rust
 
 # Build
     cargo build
