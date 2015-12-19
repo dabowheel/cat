@@ -1,7 +1,7 @@
 # Standard unix cat implemented in Rust
 
-# build
-cargo build
+# Build
+    cargo build
 
-# run
-target/debug/cat <file>...
+# Running
+    target/debug/cat <file>...
